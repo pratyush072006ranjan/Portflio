@@ -1,5 +1,5 @@
 import IntroVideo from "./components/IntroVideo"
-import LogoSection from "./components/logoSection"
+import LogoSection from "./components/LogoSection"
 import Navbar from "./components/Navbar"
 import Contact from "./sections/Contact"
 import ExperienceSection from "./sections/ExperienceSection"
