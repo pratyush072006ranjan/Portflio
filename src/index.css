@@ -530,3 +530,26 @@ overflow-hidden rounded-full;
     transform: scaleX(1);
   }
 }
+/* NAVBAR ACTION BUTTONS */
+.nav-actions {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  flex-shrink: 0;
+}
+
+/* RESUME BUTTON */
+.navbar .contact-btn.resume-btn .inner {
+  background-color: #2879f5;
+  color: #ffffff;
+  white-space: nowrap;
+}
+
+.navbar .contact-btn.resume-btn .inner span {
+  color: #ffffff;
+}
+
+/* CONTACT BUTTON */
+.nav-actions .contact-btn {
+  white-space: nowrap;
+}
