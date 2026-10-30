@@ -52,7 +52,7 @@ const Hero = () => {
             {/* Right: 3D Model*/}
             <figure >
                 <div className='hero-3d-layout '>
-                   <img src="./images/back2.png" alt=""    className="absolute -z-10 w-220 h-160 my-5 translate-x-40  opacity-90" />
+                   <img src="./images/back2.png" alt=""    className="absolute -z-10 w-210 h-160 my-5 translate-x-50  opacity-90" />
                     <HeroExperience/>
                 </div>
             </figure>
